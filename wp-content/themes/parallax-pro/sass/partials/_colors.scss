@@ -1,0 +1,192 @@
+/*
+Color Styles
+---------------------------------------------------------------------------------------------------- */
+
+.parallax-pro-blue {
+  a:hover, .entry-title a {
+    color: #000;
+  }
+}
+
+.parallax-pro-green {
+  a:hover, .entry-title a {
+    color: #000;
+  }
+}
+
+.parallax-pro-orange {
+  a:hover, .entry-title a {
+    color: #000;
+  }
+}
+
+.parallax-pro-pink {
+  a:hover, .entry-title a {
+    color: #000;
+  }
+}
+
+.parallax-pro-blue {
+  .button {
+    color: #fff;
+    &:hover {
+      color: #fff;
+    }
+  }
+  .genesis-nav-menu a, .home-odd a:hover, .site-footer a {
+    color: #fff;
+  }
+}
+
+.parallax-pro-green {
+  .button {
+    color: #fff;
+    &:hover {
+      color: #fff;
+    }
+  }
+  .genesis-nav-menu a, .home-odd a:hover, .site-footer a {
+    color: #fff;
+  }
+}
+
+.parallax-pro-orange {
+  .button {
+    color: #fff;
+    &:hover {
+      color: #fff;
+    }
+  }
+  .genesis-nav-menu a, .home-odd a:hover, .site-footer a {
+    color: #fff;
+  }
+}
+
+.parallax-pro-pink {
+  .button {
+    color: #fff;
+    &:hover {
+      color: #fff;
+    }
+  }
+  .genesis-nav-menu a, .home-odd a:hover, .site-footer a {
+    color: #fff;
+  }
+}
+
+/* Parallax Pro Blue
+--------------------------------------------- */
+
+.parallax-pro-blue {
+  a, .entry-title a:hover {
+    color: #44ace8;
+  }
+  .genesis-nav-menu {
+    a:hover, .current-menu-item > a {
+      color: #44ace8;
+    }
+    .sub-menu {
+      a:hover, .current-menu-item > a:hover {
+        color: #44ace8;
+      }
+    }
+  }
+  .home-odd .featured-content .entry-title a:hover, .site-footer a:hover, .site-header .widget-area a:hover {
+    color: #44ace8;
+  }
+  input:hover {
+    &[type="button"], &[type="reset"], &[type="submit"] {
+      background-color: #44ace8;
+    }
+  }
+  .archive-pagination {
+    li a:hover, .active a {
+      background-color: #44ace8;
+    }
+  }
+  .button:hover, .footer-widgets {
+    background-color: #44ace8;
+  }
+  .pricing-table a.button:hover {
+    background-color: #44ace8;
+    border: 3px solid #44ace8;
+  }
+}
+
+/* Parallax Pro Green
+--------------------------------------------- */
+
+.parallax-pro-green {
+  a, .entry-title a:hover {
+    color: #35c379;
+  }
+  .genesis-nav-menu {
+    a:hover, .current-menu-item > a {
+      color: #35c379;
+    }
+    .sub-menu {
+      a:hover, .current-menu-item > a:hover {
+        color: #35c379;
+      }
+    }
+  }
+  .home-odd .featured-content .entry-title a:hover, .site-footer a:hover, .site-header .widget-area a:hover {
+    color: #35c379;
+  }
+  input:hover {
+    &[type="button"], &[type="reset"], &[type="submit"] {
+      background-color: #35c379;
+    }
+  }
+  .archive-pagination {
+    li a:hover, .active a {
+      background-color: #35c379;
+    }
+  }
+  .button:hover, .footer-widgets {
+    background-color: #35c379;
+  }
+  .pricing-table a.button:hover {
+    background-color: #35c379;
+    border: 3px solid #35c379;
+  }
+}
+
+/* Parallax Pro Orange
+--------------------------------------------- */
+
+.parallax-pro-orange {
+  a, .entry-title a:hover {
+    color: #e58c29;
+  }
+  .genesis-nav-menu {
+    a:hover, .current-menu-item > a {
+      color: #e58c29;
+    }
+    .sub-menu {
+      a:hover, .current-menu-item > a:hover {
+        color: #e58c29;
+      }
+    }
+  }
+  .home-odd .featured-content .entry-title a:hover, .site-footer a:hover, .site-header .widget-area a:hover {
+    color: #e58c29;
+  }
+  input:hover {
+    &[type="button"], &[type="reset"], &[type="submit"] {
+      background-color: #e58c29;
+    }
+  }
+  .archive-pagination {
+    li a:hover, .active a {
+      background-color: #e58c29;
+    }
+  }
+  .button:hover, .footer-widgets {
+    background-color: #e58c29;
+  }
+  .pricing-table a.button:hover {
+    background-color: #e58c29;
+    border: 3px solid #e58c29;
+  }
+}

@@ -1,0 +1,24 @@
+/*
+Footer Widgets
+---------------------------------------------------------------------------------------------------- */
+
+.footer-widgets {
+  background-color: #f04848;
+  clear: both;
+  font-size: 24px;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff !important;
+  a {
+    &:hover {
+      color: #fff !important;
+    }
+    color: #000 !important;
+  }
+  .widget {
+    margin-bottom: 40px;
+  }
+  p:last-child, .widget:last-child {
+    margin-bottom: 0;
+  }
+}
